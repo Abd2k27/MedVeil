@@ -1,0 +1,11 @@
+# Environnement d'exploration MedVeil
+torch
+transformers
+datasets
+edsnlp[ml]
+sentencepiece
+protobuf
+pandas
+pyarrow
+huggingface_hub
+eds-pseudo @ git+https://github.com/aphp/eds-pseudo.git
